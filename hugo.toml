@@ -1,13 +1,13 @@
 baseURL = "http://example.org/"
 languageCode = "zh-CN"
-title = "辉辉导航"
+title = "我的导航"
 theme = "hugo-webstack"
 
 #true:允许大写字母url路径，false:将url路径转换成小写
 disablePathToLower = true
 
 #页脚：作者名字
-copyright = "辉辉"
+copyright = "刘晓辉"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
@@ -32,7 +32,7 @@ copyright = "辉辉"
 #桌面端右上角code按钮
 [params.github]
   enable = true #true显示 false隐藏
-  url = "https://github.com/oulh/nav"
+  url = "https://wz.zhanglijuan.dpdns.org/"
   
 [permalinks]  
   404 = "/404.html"
