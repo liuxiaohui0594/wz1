@@ -5,7 +5,7 @@
   links: 
     - title: Cloudflare
       qrcode:
-      logo: images/logos/111.png
+      logo:
       url: https://dash.cloudflare.com/
       description: 全球免费托管域名的平台。
     - title: Github
